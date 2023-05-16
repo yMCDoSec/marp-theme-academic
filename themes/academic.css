@@ -77,6 +77,12 @@ section.lead p {
     text-align: right;
 }
 
+section.long {
+    width: 1920px;
+    height: 2080px;
+    background-color: #800000;
+}
+
 header {
     background-color: #800000;
     color: #fff;
